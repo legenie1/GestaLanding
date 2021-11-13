@@ -1817,7 +1817,13 @@ ul.partners-mentions li img:hover {
 
 	.btn-white, .btn-white-border {
 	margin: 10px 10px!important;
-}
+	}
+	.team-item>p{
+		display: none;
+	}
+	.team-item .team-icon{
+		display: none;
+	}
 
 }
 
